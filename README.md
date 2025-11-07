@@ -1,4 +1,5 @@
 # why-not-try-tutorial
 followed the why not try tutorial and added some typing :) https://github.com/0xTim/swift-org-swiftui-tutorial/tree/main
 
-[Sample Video](https://github.com/rochelletham/why-not-try-tutorial/blob/main/Untitled.mov)
+<video src='https://github.com/rochelletham/why-not-try-tutorial/blob/main/Untitled.mov' />
+![alt text](https://github.com/rochelletham/why-not-try-tutorial/blob/main/Untitled.mov)
