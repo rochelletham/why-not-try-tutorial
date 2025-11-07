@@ -1,2 +1,4 @@
 # why-not-try-tutorial
-from the why not try tutorial! https://github.com/0xTim/swift-org-swiftui-tutorial/tree/main
+followed the why not try tutorial and added some typing :) https://github.com/0xTim/swift-org-swiftui-tutorial/tree/main
+
+[Sample Video](https://github.com/rochelletham/why-not-try-tutorial/blob/main/Untitled.mov)
