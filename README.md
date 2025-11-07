@@ -1,5 +1,9 @@
 # why-not-try-tutorial
-followed the why not try tutorial and added some typing :) https://github.com/0xTim/swift-org-swiftui-tutorial/tree/main
+followed the why not try tutorial and added some typing :) 
 
-<video src='https://github.com/rochelletham/why-not-try-tutorial/blob/main/Untitled.mov' />
-![alt text](https://github.com/rochelletham/why-not-try-tutorial/blob/main/Untitled.mov)
+tutorial I followed: https://www.swift.org/getting-started/swiftui/
+
+https://github.com/user-attachments/assets/99db348e-7f7a-47a4-83de-6f176ccf2456
+
+
+
